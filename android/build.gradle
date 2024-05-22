@@ -2,7 +2,7 @@ group 'com.chihimng.is_lock_screen'
 version '2.0.0'
 
 buildscript {
-    ext.kotlin_version = '1.9.24'
+    ext.kotlin_version = '1.7.1'
     repositories {
         google()
         jcenter()
